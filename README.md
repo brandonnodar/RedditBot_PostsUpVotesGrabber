@@ -11,7 +11,7 @@ Collect the all the posts from the ‘new’ section of a given subreddit, and o
 
 ## Instructions
 Edit the values of these 3 variables to your preference.
-'''python
+'''
 # The name of the subreddit you want to use.
 (string) subreddit_name
 
