@@ -22,6 +22,8 @@ Edit the values of these 3 variables to your preference.
 (int) num_ups_threshold
 ```
 
+Once you set your variable values, you can run the script and it will output information to the console along with the graph output.
+
 ## Libraries Used
 ```
 praw
