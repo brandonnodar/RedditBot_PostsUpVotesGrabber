@@ -21,3 +21,12 @@ Edit the values of these 3 variables to your preference.
 # The minimum number of up votes a post must have to be eligible to display on graph.
 (int) num_ups_threshold
 ```
+
+# Libraries Used
+```
+praw
+datetime
+time
+matplotlib
+numpy
+```
