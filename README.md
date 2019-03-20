@@ -2,7 +2,7 @@
   <br>
   <img src="https://raw.githubusercontent.com/tinyqubit/RedditBot_TopPosts/master/Images/Reddit_Logo.png" alt="Reddit" width="200">
   </br>
-  <font color="#FF4400">Reddit Bot: Top Posts Grabber</font>
+  <font color="red">Reddit Bot: Top Posts Grabber</font>
   <br>
 </h1>
 
