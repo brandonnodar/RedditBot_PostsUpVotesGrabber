@@ -72,7 +72,7 @@ def GraphData():
     plt.gcf().autofmt_xdate()
     myFmt = dates.DateFormatter('%m/%d %I:%M %p')
     plt.gca().xaxis.set_major_formatter(myFmt)
-    plt.xlabel('Time')
+    plt.xlabel('Upload Date & Time')
     plt.ylabel('Up Votes')
     plt.title("Subreddit: " + str(subreddit_name) + " - New Section")
     plt.show()
