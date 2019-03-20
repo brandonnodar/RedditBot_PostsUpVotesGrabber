@@ -22,7 +22,7 @@ Edit the values of these 3 variables to your preference.
 (int) num_ups_threshold
 ```
 
-Once you set your variable values, you can run the script and it will output information to the console along with the graph output.
+Once you set your variable values, you can run the script and it will output reddit posts information to the console along with the graph output.
 
 ## Libraries Used
 ```
@@ -34,6 +34,7 @@ numpy
 ```
 
 ## Example Graph Output
+This displays the posts overtime. Each dot represents a single subreddit post you collected that met the num_ups_threshold requirement.
 <p align="center">
 <img src="https://raw.githubusercontent.com/tinyqubit/RedditBot_TopPosts/master/Images/Example_Plot_1.png" alt="Reddit" width="600">
 </p>
