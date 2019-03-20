@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://goo.gl/images/1yFFf6"><img src="https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.png" alt="Markdownify" width="200"></a>
+  <img src="https://goo.gl/images/1yFFf6" alt="Reddit" width="200">
   <br>
   Reddit Bot: Top Posts Grabber
   <br>
