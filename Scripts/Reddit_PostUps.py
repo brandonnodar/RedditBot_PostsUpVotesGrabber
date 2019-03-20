@@ -1,8 +1,6 @@
 import praw
 import datetime as dt
 import time
-import os.path
-import csv
 import matplotlib
 import numpy as np
 import matplotlib.pyplot as plt
