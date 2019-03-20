@@ -6,6 +6,13 @@
   <br>
 </h1>
 
+<p align="center">
+  <a href="#instructions">Instructions</a> •
+  <a href="#libraries-used">Libraries Used</a> •
+  <a href="#example-graph-output">Example Graph Output</a> •
+  <a href="#future-features">Future Features</a>
+</p>
+
 # Purpose
 Collect the all the posts from the ‘new’ section of a given subreddit, and only show the user the posts that meet your ‘up votes’ threshold.
 
