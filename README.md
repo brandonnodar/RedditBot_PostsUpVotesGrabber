@@ -30,3 +30,7 @@ time
 matplotlib
 numpy
 ```
+
+<h1 align="center"
+  <img src="https://raw.githubusercontent.com/tinyqubit/RedditBot_TopPosts/master/Images/Example_Plot_1.png" alt="Reddit" width="200">
+</h1>
