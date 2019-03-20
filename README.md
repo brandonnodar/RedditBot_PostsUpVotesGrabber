@@ -11,7 +11,7 @@ Collect the all the posts from the ‘new’ section of a given subreddit, and o
 
 ## Instructions
 Edit the values of these 3 variables to your preference.
-'''bash
+```python
 # The name of the subreddit you want to use.
 (string) subreddit_name
 
@@ -20,4 +20,4 @@ Edit the values of these 3 variables to your preference.
 
 # The minimum number of up votes a post must have to be eligible to display on graph.
 (int) num_ups_threshold
-'''
+```
