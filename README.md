@@ -41,7 +41,7 @@ numpy
 ```
 
 ## Example Graph Output
-This displays the posts overtime. Each dot represents a single subreddit post you collected that met the num_ups_threshold requirement.
+This displays the posts overtime. Each dot represents a single subreddit post you collected that met the *num_ups_threshold* requirement.
 <p align="center">
 <img src="https://raw.githubusercontent.com/tinyqubit/RedditBot_TopPosts/master/Images/Example_Plot_1.png" alt="Reddit" width="700">
 </p>
