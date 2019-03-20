@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-## Purpose
+# Purpose
 Collect the all the posts from the ‘new’ section of a given subreddit, and only show the user the posts that meet your ‘up votes’ threshold.
 
 ## Instructions
@@ -22,7 +22,7 @@ Edit the values of these 3 variables to your preference.
 (int) num_ups_threshold
 ```
 
-# Libraries Used
+## Libraries Used
 ```
 praw
 datetime
