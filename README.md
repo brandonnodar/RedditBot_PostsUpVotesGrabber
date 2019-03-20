@@ -31,4 +31,5 @@ matplotlib
 numpy
 ```
 
+## Example Graph Output
 <img src="https://raw.githubusercontent.com/tinyqubit/RedditBot_TopPosts/master/Images/Example_Plot_1.png" alt="Reddit" width="600" text-align="center">
