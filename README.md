@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center" style="color:#FF4400">
   <br>
   <img src="https://raw.githubusercontent.com/tinyqubit/RedditBot_TopPosts/master/Images/Reddit_Logo.png" alt="Reddit" width="200">
   </br>
