@@ -29,7 +29,7 @@ Edit the values of these 3 variables to your preference.
 (int) num_ups_threshold
 ```
 
-Once you set your variable values, you can run the script and it will output reddit posts information to the console along with the graph output.
+Once you set your variable values, you can run the script and it will output the Reddit post's information to the console along with the graph output.
 
 ## Libraries Used
 ```
