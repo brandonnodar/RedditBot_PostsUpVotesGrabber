@@ -14,7 +14,7 @@
 </p>
 
 # Purpose
-Collect the all the posts from the ‘new’ section of a given subreddit, and only show the user the posts that meet your ‘up votes’ threshold.
+Collect the all the posts from the ‘new’ section of a given subreddit, and only show the user the posts that meet your ‘up votes’ threshold. This uses the Reddit API praw library.
 
 ## Instructions
 Edit the values of these 3 variables to your preference.
