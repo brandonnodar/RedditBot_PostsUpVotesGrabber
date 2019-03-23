@@ -88,6 +88,6 @@ def RunProgram():
     GraphData()
 
 # PROGRAM EXECUTION STARTS HERE.
-reddit = praw.Reddit(client_id = 'hbmOzzvWNwQb0A', client_secret = 'QaatCU-Wr0nuj7Wz8bvr4DX3D_8', username = 'soupnstuff', password = 'Teslamodel3', user_agent = 'soupy')
+reddit = praw.Reddit(client_id = 'CLIENT_ID', client_secret = 'CLIENT_SECRET', username = 'USERNAME', password = 'PASSWORD', user_agent = 'USER_AGENT')
 print("INITIAL CALLS: " + str(reddit.auth.limits))
 RunProgram()
