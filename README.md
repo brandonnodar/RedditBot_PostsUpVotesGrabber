@@ -13,6 +13,10 @@
   <a href="#future-features">Future Features</a>
 </p>
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/tinyqubit/RedditBot_TopPosts/master/Images/Example_Plot_1.png" alt="Reddit" width="700">
+</p>
+
 # Purpose
 Collect the all the posts from the ‘new’ section of a given subreddit, and only show the user the posts that meet your ‘up votes’ threshold. This uses the Reddit API praw library.
 
