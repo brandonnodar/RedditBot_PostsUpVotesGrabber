@@ -17,7 +17,7 @@
 Collect the all the posts from the ‘new’ section of a given subreddit, and only show the user the posts that meet your ‘up votes’ threshold. This uses the Reddit API praw library.
 
 ## Instructions
-Before using the script, you'll need to set up your credentials to use the Reddit API. You'll notice at the bottom of the script you'll see:
+First, you'll want to set up your credentials to use the Reddit API. You'll notice at the bottom of the script you'll see:
 ```python
 reddit = praw.Reddit(client_id = 'CLIENT_ID', client_secret = 'CLIENT_SECRET', username = 'USERNAME', password = 'PASSWORD', user_agent = 'USER_AGENT')
 ```
