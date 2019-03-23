@@ -24,7 +24,9 @@ reddit = praw.Reddit(client_id = 'CLIENT_ID', client_secret = 'CLIENT_SECRET', u
 You can watch this video made by Sentdex to help you set this up!
 https://www.youtube.com/watch?v=NRgfgtzIhBQ
 
-Edit the values of these 3 variables to your preference.
+<hr>
+
+Once you've set up your credentials, you can edit the values of these 3 variables to your preference.
 ```python
 # The name of the subreddit you want to use.
 (string) subreddit_name
