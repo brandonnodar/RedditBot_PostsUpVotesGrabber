@@ -67,14 +67,16 @@ def GraphData():
     x = np.array(post_stats_createdtime)
     y = np.array(post_stats_ups)
     plt.plot([], [])
-    plt.scatter(x, y)
+    plt.scatter(x, y, c="#ff4400")
 
+    plt.xticks(fontsize=8, rotation=60)
     plt.gcf().autofmt_xdate()
     myFmt = dates.DateFormatter('%m/%d %I:%M %p')
     plt.gca().xaxis.set_major_formatter(myFmt)
     plt.xlabel('Upload Date & Time')
     plt.ylabel('Up Votes')
     plt.title("Subreddit: " + str(subreddit_name) + " - New Section")
+    plt.tight_layout()
     plt.show()
 
 def RunProgram():
