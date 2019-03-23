@@ -44,6 +44,12 @@ Once you've set up your credentials, you can edit the values of these 3 variable
 
 Once you set your variable values, you can run the script and it will output the Reddit post's information to the console along with the graph output.
 
+## Example Graph Output
+This displays the posts over time. Each dot represents a single subreddit post you collected that met the *num_ups_threshold* requirement.
+<p align="center">
+<img src="https://raw.githubusercontent.com/tinyqubit/RedditBot_PostsUpVotesGrabber/master/Images/Example_Plot_1.png" alt="Reddit" width="700">
+</p>
+
 ## Libraries Used
 ```
 praw
@@ -52,12 +58,6 @@ time
 matplotlib
 numpy
 ```
-
-## Example Graph Output
-This displays the posts over time. Each dot represents a single subreddit post you collected that met the *num_ups_threshold* requirement.
-<p align="center">
-<img src="https://raw.githubusercontent.com/tinyqubit/RedditBot_PostsUpVotesGrabber/master/Images/Example_Plot_1.png" alt="Reddit" width="700">
-</p>
 
 ## Future Features
 - Write post's data to a text file for more details statistics on each post. Will include things like number of comments, post title, update time, etc.
