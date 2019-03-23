@@ -63,3 +63,7 @@ numpy
 - Write post's data to a text file for more details statistics on each post. Will include things like number of comments, post title, update time, etc.
 - Ability to ask user for variable values through the console instead of going into the script to change them.
 - Ability to modify a search window for specific date and time a post was uploaded.
+
+## You May Also Like...
+Reddit Bot: Online Users
+https://github.com/TinyQubit/RedditBot_OnlineUsers
